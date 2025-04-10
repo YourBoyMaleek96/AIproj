@@ -1,0 +1,3 @@
+#include <stdio.h> #include <math.h>
+
+int main(){ float pi_val = 22.0/7.0; float calc_pi = 0, error = 0; int i, iter = 1000000; for(i = 0; i < iter; i++){ calc_pi += 4.0/(1.0*(i2.0+1.0)(i2.0+1.0)); } calc_pi = 1.0 * calc_pi; error = 1.0 - (pi_val/calc_pi); printf("The value of pi to 6 digits is: %f \n", calc_pi); printf("The percentage error from the actual value of pi is: %f \n", error100); return 0; }
